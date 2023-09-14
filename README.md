@@ -1,9 +1,4 @@
 <div align='center'>
- <img src='https://media.giphy.com/media/KnuGX7IV6cnu0/giphy.gif' width="600" height="400">
-</div>
-
-
-<div align='center'>
  <h1>🙋‍♂Hey there!</h1>
 </div>
 
