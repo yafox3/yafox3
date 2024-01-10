@@ -4,7 +4,7 @@
 
 ### I'm a Frontend Developer
 
-My name is Ruslan. I am partial to coding neatly and efficiently and am constantly looking to improve my skills. I also have a good understanding of the UI/UX process and the ability to visualize design into code. I am a team player with excellent communication skills, willing to work in a dynamic and collaborative environment. I am inspired by creating unique and intuitive user interfaces that deliver great user experiences.
+My name is Ruslan. I love to create ❤️
 
 ### Languages and tools
 <div>
